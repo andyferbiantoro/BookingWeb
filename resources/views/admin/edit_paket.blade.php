@@ -25,7 +25,7 @@
               
               <div class="card-body">
                 
-                <h1>UPDATE PAKET</h1>
+                <h1>UPDATE PAKET BELAJAR</h1>
 
                
                 
@@ -60,6 +60,9 @@
                                 <label for="stok">Stok</label>
                                 <input type="text" class="form-control" id="stok" name="stok"  value="{{$edit->stok}}"/>
                             </div>
+
+                             
+
                 </div>
                  <div class="col-lg-6">
                             <div class="form-group">

@@ -25,7 +25,7 @@
               
               <div class="card-body">
                 
-                <h1>DASHBOARD ADMIN</h1><br>
+                <h1>DASHBOARD ADMINnn</h1><br>
                 <a href="{{route('dashboard-admin')}}"><button class="btn btn-primary">Reload</button></a><br>
 
                 <div class="row">

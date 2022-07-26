@@ -61,41 +61,18 @@
                                             <input type="nama" class="form-control" name="name" required="">
                                         </div>
 									    
-										<div class="form-group">
-                                            <label>Username</label>
-											<input type="username" class="form-control" name="username"  required="">
-										</div>
-										
-										
+									
 										<div class="form-group">
                                             <label>Email</label>
 											<input type="email" class="form-control" name="email" required="">
 										</div>
 
-										<div class="form-group">
-                                            <label>Nomor Hp</label>
-											<input type="nama" class="form-control" name="nohp"  required="">
-										</div>
-
+										
                                         <div class="form-group">
                                             <label>Alamat</label>
                                             <input type="nama" class="form-control" name="alamat"  required="">
                                         </div>
 
-                                         <div class="form-group">
-                                          <label>Jenis Kelamin</label>
-                                            <select name="jenis_kelamin" class="form-control">
-                                              
-                                                <option>Laki-Laki</option>
-                                                <option>Perempuan</option>
-
-                                          </select>
-                                        </div>
-
-                                        <div class="form-group">
-                                            <label>Pendidikan Terakhir</label>
-                                            <input type="nama" class="form-control" name="pendidikan" required="">
-                                        </div>
 
 										<div class="form-group">
                                             <label>Password</label>
